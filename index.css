@@ -1,0 +1,21 @@
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  margin-left: 5%;
+}
+body{
+  background-image: linear-gradient(359.8deg,  rgba(252,255,222,1) 2.2%, rgba(182,241,171,1) 99.3% );   
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+  padding: 50px;
+}
+.space{
+  margin: 1% 10% 10% 5%;
+
+}
+input[type="text"]{
+  width: 50%;
+}
